@@ -38,7 +38,7 @@ go build -o task-tracker
 ./task-tracker delete 1
 ```
 
-### Mark task status
+### Update task status
 
 ```bash
 ./task-tracker mark-in-progress 1
