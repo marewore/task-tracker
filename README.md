@@ -20,7 +20,7 @@ go build -o task-tracker
 
 ## 📌 Usage
 
-### Add a ask
+### Add a task
 
 ```bash
 ./task-tracker add "Buy groceries"
