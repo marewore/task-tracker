@@ -7,8 +7,8 @@ A simple command-line task tracker built with Go.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/arikchakma/backend-projects.git
-cd backend-projects/task-tracker
+git clone https://github.com/marewore/task-tracker.git
+cd task-tracker
 ```
 
 ### Build and Run
